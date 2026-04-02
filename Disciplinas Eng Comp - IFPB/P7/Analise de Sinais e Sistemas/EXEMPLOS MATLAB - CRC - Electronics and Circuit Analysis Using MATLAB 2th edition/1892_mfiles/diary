@@ -1,0 +1,208 @@
+disp(which('pr3_1ml'));
+C:\MATLABR11\work\pr3_1ml.m
+clear 'c:\matlabr11\work\pr3_1ml.m'
+;
+;
+ex1_5se
+??? Undefined function or variable 'equiv_sr'.
+
+Error in ==> C:\MATLABR11\work\ex1_5se.m
+On line 3  ==> Rseries = equiv_sr(a)
+
+ex1_5se
+Warning: Unmatched "end".
+In C:\MATLABR11\work\equiv_sr.m at line 12.
+> In C:\MATLABR11\work\ex1_5se.m at line 3
+
+Rseries =
+
+    66
+
+ex1_5se
+
+Rseries =
+
+    66
+
+ex1_6se
+Warning: Unmatched "end".
+In C:\MATLABR11\work\rt_quad.m at line 32.
+> In C:\MATLABR11\work\ex1_6se.m at line 3
+
+ra =
+
+    -1
+    -2
+
+
+rb =
+
+    -1
+    -1
+
+
+rc =
+
+   1.0000 + 1.4142i
+   1.0000 - 1.4142i
+
+dbstack
+;
+disp(which('ex9_7se'));
+C:\MATLABR11\work\ex9_7se.m
+clear 'c:\matlabr11\work\ex9_7se.m'
+dbstack
+;
+disp(which('sinexpf2'));
+C:\MATLABR11\work\sinexpf2.m
+clear 'c:\matlabr11\work\sinexpf2.m'
+ex9_7se
+??? Error using ==> fzero
+FZERO cannot continue because user supplied function ==> sinexpf2
+failed with the error below.
+This may be due to changed syntax of FZERO. Please check HELP FZERO.
+
+y = 20(
+          |
+Missing operator, comma, or semi-colon.
+Syntax error in ==> C:\MATLABR11\work\sinexpf2.m
+On line 3  ==> y = 20(sin(120*pi*(t - t2))) - exp(-(t-t1)/rc);. 
+
+Error in ==> C:\MATLABR11\work\ex9_7se.m
+On line 6  ==> t3 = fzero('sinexpf2',0.7*period);
+
+disp(which('sinexpf2'));
+C:\MATLABR11\work\sinexpf2.m
+clear 'c:\matlabr11\work\sinexpf2.m'
+ex9_7se
+Zero found in the interval: [0.0079333, 0.014307].
+Ripple value (peak-peak) is   0.16667 V
+DC output voltage is  19.91667 V
+Capacitor discharge time is   0.00430 s
+Period of ripple voltage is   0.00833 s
+dbstack
+;
+disp(which('ex9_8se'));
+C:\MATLABR11\work\ex9_8se.m
+clear 'c:\matlabr11\work\ex9_8se.m'
+ex9_8se
+
+ip1 =
+
+   -0.0030
+
+
+vp1 =
+
+  -20.0001
+
+
+ip2 =
+
+   -0.0055
+
+
+vp2 =
+
+  -20.0003
+
+disp(which('ex9_8se'));
+C:\MATLABR11\work\ex9_8se.m
+clear 'c:\matlabr11\work\ex9_8se.m'
+ex9_8se
+
+ip1 =
+
+   -0.0030
+
+
+vp1 =
+
+  -20.0001
+
+
+ip2 =
+
+   -0.0055
+
+
+vp2 =
+
+  -20.0003
+
+disp(which('ex9_8se'));
+C:\MATLABR11\work\ex9_8se.m
+clear 'c:\matlabr11\work\ex9_8se.m'
+ex9_8se
+
+ip1 =
+
+   -0.0030
+
+
+vp1 =
+
+  -20.0001
+
+
+ip2 =
+
+   -0.0055
+
+
+vp2 =
+
+  -20.0003
+
+disp(which('ex9_8se'));
+C:\MATLABR11\work\ex9_8se.m
+clear 'c:\matlabr11\work\ex9_8se.m'
+ex9_8se
+
+ip1 =
+
+   -0.0030
+
+
+vp1 =
+
+  -20.0001
+
+
+ip2 =
+
+   -0.0055
+
+
+vp2 =
+
+  -20.0003
+
+disp(which('ex9_8se'));
+C:\MATLABR11\work\ex9_8se.m
+clear 'c:\matlabr11\work\ex9_8se.m'
+disp(which('ex9_8se'));
+C:\MATLABR11\work\ex9_8se.m
+clear 'c:\matlabr11\work\ex9_8se.m'
+ex9_8se
+
+ip1 =
+
+   -0.0030
+
+
+vp1 =
+
+  -20.0001
+
+
+ip2 =
+
+   -0.0055
+
+
+vp2 =
+
+  -20.0003
+
+;
