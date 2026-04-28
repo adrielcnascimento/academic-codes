@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+main()
+{
+      int y, *p, x;
+      y = 0;
+      p = &y;
+      x = *p;
+      x = 4;
+      (*p)++;
+      x--;
+      (*p) += x;
+      printf("y = %d\n", y);
+      printf("\n");
+      system("pause");
+      return 0;
+}
