@@ -1,6 +1,3 @@
-/* Alunos: Kenneth Fellipe(20921432) / Cristovam Andre(20921173)
-   Lista: 5     Questao: 2
-
    Classe com as caracteristicas para se trabalhar com um Retangulo.
 */
 #include "Retangulo.h"

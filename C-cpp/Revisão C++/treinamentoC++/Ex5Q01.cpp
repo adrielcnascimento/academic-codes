@@ -1,4 +1,4 @@
-/* Alunos: Kenneth Fellipe(mat.: 20921432) / Cristovam Andre
+/* 
    Lista: 5    Questao: 1
    
    Representacao de numeros complexos por uma classe complexo, e um programa

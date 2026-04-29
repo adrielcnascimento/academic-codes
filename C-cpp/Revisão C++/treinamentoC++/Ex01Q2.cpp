@@ -1,4 +1,4 @@
-/** Aluno: Kenneth Fellipe Reis 
+/** Aluno: 
 *   Lista: 1    Questao: 2 
 *   Classe Elevador para armazenar informacoes relativas a um elevador de 
 *   passageiros instalado no interior de um edifício.
